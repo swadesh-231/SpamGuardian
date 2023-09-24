@@ -1,10 +1,10 @@
 # SpamGuardian
 
-Of course! Here's a concise and compelling project description that you can use for your LinkedIn "Projects" section:
 
-Project: SpamShield - Intelligent Spam Email Detection
 
-SpamShield Logo
+ SpamShield - Intelligent Spam Email Detection
+
+
 
 I led the development of SpamShield, a sophisticated machine learning project aimed at combatting spam emails. Leveraging Python and the scikit-learn library, SpamShield achieves exceptional accuracy, reaching an impressive 96%
 
